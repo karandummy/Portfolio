@@ -140,7 +140,7 @@ function printAboutCmd(){
       <img class = "my-pic" src="balaji.jpeg" alt="my-image" />
     </div>
     <div class = "container-left">
-      <p class = "text"> Hello people! I am karan from kayatwhar,Tuticorin. I currently pursueing my 3rd yr of Computer Science and Engineering at National engineering college, kovilpatti with an excellent CGPA of 8.92 upto my 3rd semester._______________ is my domain of interest.</p>
+      <p class = "text"> Hello people! I am karan from kayathar,Tuticorin. I currently pursueing my 3rd yr of Computer Science and Engineering at National engineering college, kovilpatti with an excellent CGPA of 8.92 upto my 3rd semester._______________ is my domain of interest.</p>
     </div>
   </div><br />`;
     output.insertAdjacentHTML('beforeend',html);
